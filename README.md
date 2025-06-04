@@ -38,14 +38,14 @@ A company needs a secure and cost-monitored Azure Virtual Machine (VM) deploymen
 
 | Task | Screenshot |
 |------|------------|
-| VM Provisioned | ![VM Overview](screenshots/vm-overview.png) |
-| Inside the VM via RDP | ![Server Manager](screenshots/vm-server-manager.png) |
-| Key Vault Created | ![Key Vault Overview](screenshots/keyvault-overview.png) |
-| Tags Applied to Vault | ![Key Vault Tags](screenshots/keyvault-tags.png) |
-| RBAC Configured | ![Key Vault Admin Role](screenshots/rbac-keyvault-admin.png) |
-| Policy Assigned | ![Policy Remediation](screenshots/policy-remediation.png) |
-| Policy Enforcement Worked | ![Blocked Storage Resource](screenshots/policy-enforcement-error.png) |
-| Budget & Cost Tracking | ![Cost Management](screenshots/cost-mgmt-analysis.png) |
+| VM Provisioned | ![VM Overview](screenshots/vm-overview.jpg) |
+| Inside the VM via RDP | ![Server Manager](screenshots/proj1-vm.png) |
+| Key Vault Created | ![Key Vault Overview](screenshots/keyvault-overview.jpg) |
+| Key Generated in Vault | ![Key Created](screenshots/vault-key.jpg) |
+| Tags Applied to Vault | ![Tag Inheritance](screenshots/tag-inheritance-policy.png) |
+| RBAC Configured | ![RBAC Assigned](screenshots/rbac-keyvault-admin.jpg) |
+| Policy Enforcement Worked | ![Blocked Storage](screenshots/policy-enforcement-error.jpg) |
+| Budget & Cost Tracking | ![Cost Analysis](screenshots/cost-mgmt-Analysis.jpg) |
 
 ---
 
