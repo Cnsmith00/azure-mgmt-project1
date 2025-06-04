@@ -1,7 +1,7 @@
 # Azure Management Project
 Azure project demonstrating VM deployment, RBAC, Key Vault, Policy enforcement, and cost monitoring in Azure.
 
-# Azure Management Project (AZ-104 Aligned)
+# Azure Management Project
 
 This project demonstrates core Azure administration skills including VM provisioning, RBAC configuration, secure key storage, policy enforcement, and cost monitoring. It follows a real-world use case aligned with AZ-104 Microsoft Azure Administrator certification topics.
 
